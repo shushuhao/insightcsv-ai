@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "InsightCSV AI | AI CSV 数据洞察工具",
-  description: "上传 CSV 后自动生成 PV/UV 图表和 AI 数据分析摘要的 Next.js 面试作品项目。",
+  description: "上传 CSV 后自动生成 PV/UV 图表和 AI 数据分析摘要的 Next.js 应用。",
 };
 
 export default function RootLayout({

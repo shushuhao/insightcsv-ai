@@ -25,7 +25,7 @@ export default function Home() {
         <div className="mx-auto grid max-w-7xl items-center gap-14 lg:grid-cols-[1.05fr_0.95fr]">
           <div>
             <div className="mb-6 inline-flex rounded-full border border-white/15 bg-white/10 px-4 py-2 text-sm text-cyan-100 backdrop-blur">
-              InsightCSV AI · 面试作品集项目
+              InsightCSV AI · AI CSV 数据洞察工具
             </div>
             <h1 className="max-w-4xl text-5xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
               InsightCSV AI：上传 CSV，快速得到可视化图表和 AI 分析结论
@@ -96,7 +96,7 @@ export default function Home() {
           <div className="mb-8 flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
             <div>
               <p className="text-sm font-semibold uppercase tracking-[0.3em] text-purple-300">Tech Stack</p>
-              <h2 className="mt-3 text-3xl font-bold">项目亮点适合面试讲解</h2>
+              <h2 className="mt-3 text-3xl font-bold">技术实现与产品亮点</h2>
             </div>
             <Link href="/upload" className="text-cyan-200 hover:text-cyan-100">
               进入核心功能 →
